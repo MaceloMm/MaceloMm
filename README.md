@@ -1,5 +1,9 @@
 # 💫 Sobre min:
-Atualmente, tenho 19 anos, possuo a CNH tipo B e estou empenhado em encontrar uma oportunidade profissional na área de tecnologia/desenvolvimento.<br><br>Conto com experiência relevante nesse campo, tendo desempenhado o papel de assistente de implantação em uma empresa contábil por seis meses. Durante esse período, fui responsável não apenas pelas tarefas convencionais associadas a essa função, mas também prestei suporte em Tecnologia da Informação (T.I) e participei ativamente do desenvolvimento do site corporativo (www.eaglesight.com.br). Minhas responsabilidades incluíram a elaboração de imagens e o design do site, contribuindo para aprimorar a presença online da empresa. Estou entusiasmado para aplicar e expandir minhas habilidades nesse setor dinâmico.
+Sou desenvolvedor web e profissional com sólida experiência em suporte técnico e soluções digitais. Atuei em suporte N3, análise e resolução de problemas de software, além de desenvolvimento de sites institucionais e manutenção de sistemas. Possuo habilidades em tecnologias como Python, HTML/CSS, JavaScript e bancos de dados como SQL Server e SQLite3.
+
+Minha trajetória inclui a utilização de ferramentas como ServiceNow e Jira para o gerenciamento eficiente de chamados, além de atividades como configuração de sistemas, análise de logs, criação de tutoriais e treinamento de equipes. Atualmente, estou ampliando meus conhecimentos em desenvolvimento web com Django e React, buscando unir minha experiência técnica ao desenvolvimento de soluções completas e inovadoras.
+
+Com formação em Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full Stack, meu objetivo é crescer na área de tecnologia, contribuindo para projetos que combinam eficiência, inovação e impacto.
 
 
 ## 🌐 Rede Sociais:
