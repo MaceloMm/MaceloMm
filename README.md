@@ -9,7 +9,7 @@ Minha trajetória inclui a utilização de ferramentas como ServiceNow e Jira pa
 Com formação em Análise e Desenvolvimento de Sistemas e Desenvolvimento Web Full Stack, meu objetivo é crescer na área de tecnologia, contribuindo para projetos que combinam eficiência, inovação e impacto.
 
 ## 🌐 Rede Sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bolumm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/macelo-augusto-7a1923215/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bolumm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/macelomm)) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaceloMm&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true)<br/>
